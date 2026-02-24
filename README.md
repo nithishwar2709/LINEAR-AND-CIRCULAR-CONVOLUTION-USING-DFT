@@ -7,10 +7,6 @@ PC installed with SCILAB
 ## PROGRAM:
 ### LINEAR CONVOLUTION
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ```
 clc;
@@ -58,14 +54,17 @@ ylabel('Amplitude');
 title('Graphical Representation of Output Signal y');
 
 ```
-
 <br>
+
 ### CALCULATIONS:
 <br>
+
+![20260224_203921](https://github.com/user-attachments/assets/f143a76e-ba90-4e11-a790-84ed439cce0a)
+![20260224_203929](https://github.com/user-attachments/assets/cad6f8fc-ec2c-404b-a00d-40674c062d17)
+
 <br>
 <br>
-<br>
-<br>
+
 ### SAMPLE OUTPUT:
 <br>
 <br>
@@ -75,10 +74,7 @@ title('Graphical Representation of Output Signal y');
 <br>
 <br>
 
-## CIRCULAR CONVOLUTION
-<br>
-<br>
-<br>
+## CIRCULAR CONVOLUTION:
 <br>
 <br>
 
@@ -138,19 +134,19 @@ title('circular convolution');
 
 ```
 
-<br>
 ### CALCULATIONS:
+
 <br>
+<br>
+
+![20260224_203935](https://github.com/user-attachments/assets/956299fb-2133-468c-a40a-e0d9818a8e4c)
+
+<br>
+
+### SAMPLE OUTPUT:
 <br>
 
 <img width="1919" height="1199" alt="Screenshot 2026-02-23 093554" src="https://github.com/user-attachments/assets/dbfb5f86-0b8a-4a01-bdb9-2f1459b1d8f5" />
-
-<br>
-<br>
-<br>
-### SAMPLE OUTPUT:
-<br>
-<br>
 <br>
 <br>
 
